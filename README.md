@@ -30,6 +30,10 @@ ninja -k3 -C out/Default_x64 xwalk_core_library
 ```
 (If build failed, try again)
 
+# 提醒
+### 使用旧版本gn
+https://chrome-infra-packages.appspot.com/p/gn/gn/linux-amd64/+/QJ9Jf6Jk_zJMJ_KbbaPHw5ZhQvVcd1sbrHmzw-pg6loC
+
 # Whats new 77.1.4.0
 
 Remove xwalk library update/download code for complince with Google Play policy
